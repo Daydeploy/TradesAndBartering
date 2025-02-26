@@ -3,20 +3,22 @@
   "id": "tradesandbartering",
   "version": "${version}",
 
-  "name": "TradesAndBartering",
-  "description": "",
-  "authors": [],
-  "contact": {},
+  "name": "More Trades & Bartering",
+  "description": "More vanilla inspired trades for Piglins, Villagers and Wandering Trader.",
+  "authors": ["Day"],
+  "contact": {
+    "homepage": "https://modrinth.com/project/more-trades-and-bartering",
+    "issues": "https://github.com/Daydeploy/TradesAndBartering/issues",
+    "sources": "https://github.com/Daydeploy/TradesAndBartering"
+  },
 
   "license": "LGPL-3.0",
   "icon": "assets/tradesandbartering/icon.png",
 
   "environment": "*",
   "entrypoints": {
-    "client": ["me.day.tradesandbartering.client.TradesAndBarteringClient"],
-    "main": ["me.day.tradesandbartering.TradesAndBartering"]
+        "main": ["me.day.tradesandbartering.TradesAndBartering"]
   },
-
 
   "depends": {
     "fabricloader": ">=${loader_version}",
