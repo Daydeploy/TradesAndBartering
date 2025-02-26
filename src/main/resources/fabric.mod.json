@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "tradesandbartering",
+  "version": "${version}",
+
+  "name": "TradesAndBartering",
+  "description": "",
+  "authors": [],
+  "contact": {},
+
+  "license": "LGPL-3.0",
+  "icon": "assets/tradesandbartering/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "client": ["me.day.tradesandbartering.client.TradesAndBarteringClient"],
+    "main": ["me.day.tradesandbartering.TradesAndBartering"]
+  },
+
+
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
