@@ -121,6 +121,7 @@ public class VillagerTrades {
         TradeOfferHelper.registerVillagerOffers(VillagerProfession.MASON, 1, factories -> {
             factories.add((entity, random) -> new TradeOffer(new TradedItem(Items.SAND, 16), new ItemStack(Items.EMERALD), 12, 2,0.05F));
             factories.add((entity, random) -> new TradeOffer(new TradedItem(Items.RED_SAND, 16), new ItemStack(Items.EMERALD), 12, 2,0.05F));
+            factories.add((entity, random) -> new TradeOffer(new TradedItem(Items.EMERALD), new ItemStack(Items.DECORATED_POT, 2), 12, 1,0.05F));
         });
 
         TradeOfferHelper.registerVillagerOffers(VillagerProfession.MASON, 2, factories -> {
