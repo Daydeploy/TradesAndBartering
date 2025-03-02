@@ -159,7 +159,7 @@ public class MoreVillagerTrades {
     }
 
     private static void WeaponSmithTrades() {
-        TradeOfferHelper.registerVillagerOffers(VillagerProfession.WEAPONSMITH, 1, factories -> factories.add((entity, random) -> new TradeOffer(new TradedItem(Items.EMERALD, 1), new ItemStack(Items.SHIELD), 12, 1, 0.2F)));
+        TradeOfferHelper.registerVillagerOffers(VillagerProfession.WEAPONSMITH, 1, factories -> factories.add((entity, random) -> new TradeOffer(new TradedItem(Items.EMERALD), new ItemStack(Items.SHIELD), 12, 1, 0.2F)));
 
         TradeOfferHelper.registerVillagerOffers(VillagerProfession.WEAPONSMITH, 2, factories -> factories.add((entity, random) -> new TradeOffer(new TradedItem(Items.COPPER_INGOT, 4), new ItemStack(Items.EMERALD), 12, 10, 0.05F)));
 
