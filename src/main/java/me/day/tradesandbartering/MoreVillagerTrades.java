@@ -100,8 +100,7 @@ public class MoreVillagerTrades {
 
             trades.get(3).add(((entity, random) -> new MerchantOffer(new ItemCost(Items.EMERALD), new ItemStack(Items.SPECTRAL_ARROW, 8), 12, 10, 0.05F)));
 
-            // TODO
-            trades.get(5).add(((entity, random) -> new MerchantOffer(new ItemCost(Items.SPECTRAL_ARROW, 5), new ItemStack(Items.TIPPED_ARROW, 5), 12, 30, 0.05F)));
+            trades.get(5).add(new VillagerTrades.TippedArrowForItemsAndEmeralds(Items.SPECTRAL_ARROW, 5, Items.TIPPED_ARROW, 5, 1, 12, 30));
         }
 
         if (villagerTradesEvent.getType() == VillagerProfession.LEATHERWORKER) {
