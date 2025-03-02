@@ -153,10 +153,10 @@ public class MoreVillagerTrades {
             Int2ObjectMap<List<VillagerTrades.ItemListing>> trades = villagerTradesEvent.getTrades();
 
             trades.get(2).add(((entity, random) -> new MerchantOffer(new ItemCost(Items.COPPER_INGOT, 4), new ItemStack(Items.EMERALD), 12, 2, 0.05F)));
-            trades.get(2).add(((entity, random) -> new MerchantOffer(new ItemCost(Items.EMERALD, 2), new ItemStack(Items.GOLDEN_HOE), 12, 1, 0.05F)));
-            trades.get(2).add(((entity, random) -> new MerchantOffer(new ItemCost(Items.EMERALD, 2), new ItemStack(Items.GOLDEN_SHOVEL), 12, 1, 0.05F)));
-            trades.get(2).add(((entity, random) -> new MerchantOffer(new ItemCost(Items.EMERALD, 2), new ItemStack(Items.GOLDEN_AXE), 12, 1, 0.05F)));
-            trades.get(2).add(((entity, random) -> new MerchantOffer(new ItemCost(Items.EMERALD, 2), new ItemStack(Items.GOLDEN_PICKAXE), 12, 1, 0.05F)));
+            trades.get(2).add(((entity, random) -> new MerchantOffer(new ItemCost(Items.EMERALD, 2), new ItemStack(Items.GOLDEN_HOE), 12, 1, 0.2F)));
+            trades.get(2).add(((entity, random) -> new MerchantOffer(new ItemCost(Items.EMERALD, 2), new ItemStack(Items.GOLDEN_SHOVEL), 12, 1, 0.2F)));
+            trades.get(2).add(((entity, random) -> new MerchantOffer(new ItemCost(Items.EMERALD, 2), new ItemStack(Items.GOLDEN_AXE), 12, 1, 0.2F)));
+            trades.get(2).add(((entity, random) -> new MerchantOffer(new ItemCost(Items.EMERALD, 2), new ItemStack(Items.GOLDEN_PICKAXE), 12, 1, 0.2F)));
 
             trades.get(3).add(((entity, random) -> new MerchantOffer(new ItemCost(Items.EMERALD, 2), new ItemStack(Items.IRON_HOE), 3, 10, 0.2F)));
         }
@@ -164,7 +164,7 @@ public class MoreVillagerTrades {
         if (villagerTradesEvent.getType() == VillagerProfession.WEAPONSMITH) {
             Int2ObjectMap<List<VillagerTrades.ItemListing>> trades = villagerTradesEvent.getTrades();
 
-            trades.get(1).add(((entity, random) -> new MerchantOffer(new ItemCost(Items.EMERALD), new ItemStack(Items.SHIELD), 12, 1, 0.05F)));
+            trades.get(1).add(((entity, random) -> new MerchantOffer(new ItemCost(Items.EMERALD), new ItemStack(Items.SHIELD), 12, 1, 0.2F)));
 
             trades.get(2).add(((entity, random) -> new MerchantOffer(new ItemCost(Items.COPPER_INGOT, 4), new ItemStack(Items.EMERALD), 12, 10, 0.05F)));
 

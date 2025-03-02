@@ -28,7 +28,7 @@ public class MoreWanderingTrades {
 
         genericTrades.add((entity, random) -> new MerchantOffer(new ItemCost(Items.EMERALD), new ItemStack(Items.ARMADILLO_SCUTE), 12, 1, 0.0F));
         genericTrades.add((entity, random) -> new MerchantOffer(new ItemCost(Items.EMERALD), new ItemStack(Items.EXPERIENCE_BOTTLE), 6, 1, 0.0F));
-        genericTrades.add((entity, random) -> new MerchantOffer(new ItemCost(Items.EMERALD), new ItemStack(Items.HONEYCOMB), 12, 1, 0.0F));
+        genericTrades.add((entity, random) -> new MerchantOffer(new ItemCost(Items.EMERALD), new ItemStack(Items.HONEYCOMB, 3), 12, 1, 0.0F));
         genericTrades.add((entity, random) -> new MerchantOffer(new ItemCost(Items.EMERALD), new ItemStack(Items.HONEY_BOTTLE), 6, 1, 0.0F));
 
         rareTrades.add((entity, random) -> new MerchantOffer(new ItemCost(Items.EMERALD, 32), new ItemStack(Items.HEART_OF_THE_SEA), 1, 1, 0.0F));
