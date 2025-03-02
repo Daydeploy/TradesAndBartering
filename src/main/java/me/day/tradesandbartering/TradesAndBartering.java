@@ -11,8 +11,8 @@ public class TradesAndBartering implements ModInitializer {
 
     @Override
     public void onInitialize() {
-        VillagerTrades.registerVillagerTrades();
-        WanderingTrades.registerWanderingTrades();
+        MoreVillagerTrades.registerVillagerTrades();
+        MoreWanderingTrades.registerWanderingTrades();
 
         LOGGER.info("Loaded " + MOD_ID);
     }
