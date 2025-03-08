@@ -5,14 +5,15 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Items;
 import net.minecraft.world.item.trading.ItemCost;
 import net.minecraft.world.item.trading.MerchantOffer;
-import net.neoforged.bus.api.SubscribeEvent;
-import net.neoforged.fml.common.EventBusSubscriber;
-import net.neoforged.neoforge.event.village.WandererTradesEvent;
+import net.minecraftforge.event.village.WandererTradesEvent;
+import net.minecraftforge.eventbus.api.SubscribeEvent;
+import net.minecraftforge.fml.common.Mod;
 
 import java.util.List;
 
-@EventBusSubscriber(modid = TradesAndBartering.MOD_ID)
+@Mod.EventBusSubscriber(modid = TradesAndBartering.MOD_ID)
 public class MoreWanderingTrades {
+
     @SubscribeEvent
     public static void registerWanderingTrades(WandererTradesEvent wandererTradesEvent) {
         List<VillagerTrades.ItemListing> genericTrades = wandererTradesEvent.getGenericTrades();
