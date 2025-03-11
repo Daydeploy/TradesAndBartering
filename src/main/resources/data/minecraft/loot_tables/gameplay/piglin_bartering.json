@@ -8,8 +8,10 @@
           "type": "minecraft:item",
           "functions": [
             {
-              "function": "minecraft:enchant_randomly",
-              "options": "minecraft:soul_speed"
+              "enchantments": [
+                "minecraft:soul_speed"
+              ],
+              "function": "minecraft:enchant_randomly"
             }
           ],
           "name": "minecraft:book",
@@ -19,8 +21,10 @@
           "type": "minecraft:item",
           "functions": [
             {
-              "function": "minecraft:enchant_randomly",
-              "options": "minecraft:soul_speed"
+              "enchantments": [
+                "minecraft:soul_speed"
+              ],
+              "function": "minecraft:enchant_randomly"
             }
           ],
           "name": "minecraft:iron_boots",
