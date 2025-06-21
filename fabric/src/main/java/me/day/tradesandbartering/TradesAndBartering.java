@@ -6,5 +6,6 @@ public class TradesAndBartering implements ModInitializer {
 
     @Override
     public void onInitialize() {
+        CommonClass.initialize();
     }
 }
