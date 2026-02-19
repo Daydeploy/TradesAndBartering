@@ -36,5 +36,6 @@ jobs:
           loaders: datapack
           game-versions: |
             >=26.1-snapshot-1
+          version: ${{github.ref_name}}
           version-type: release
           changelog: ${{github.event.head_commit.message}}
