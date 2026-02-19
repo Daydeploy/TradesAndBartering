@@ -1,6 +1,8 @@
 {
-  "values": [
-    "minecraft:mason/1/clay_ball_emerald",
-    "minecraft:mason/1/emerald_brick"
-  ]
+    "replace": false,
+    "values": [
+        "trades:mason/1/emerald_decorated_pot",
+        "trades:mason/1/red_sand_emerald",
+        "trades:mason/1/sand_emerald"
+    ]
 }

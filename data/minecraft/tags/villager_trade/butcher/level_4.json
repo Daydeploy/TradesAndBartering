@@ -1,5 +1,6 @@
 {
-  "values": [
-    "minecraft:butcher/4/dried_kelp_block_emerald"
-  ]
+    "replace": false,
+    "values": [
+        "trades:butcher/4/emerald_mutton"
+    ]
 }

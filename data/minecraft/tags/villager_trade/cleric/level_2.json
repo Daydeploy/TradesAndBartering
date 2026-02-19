@@ -1,6 +1,6 @@
 {
-  "values": [
-    "minecraft:cleric/2/gold_ingot_emerald",
-    "minecraft:cleric/2/emerald_lapis_lazuli"
-  ]
+    "replace": false,
+    "values": [
+        "trades:cleric/2/gun_powder_emerald"
+    ]
 }

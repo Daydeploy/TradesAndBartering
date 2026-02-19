@@ -1,6 +1,6 @@
 {
-  "values": [
-    "minecraft:fletcher/3/string_emerald",
-    "minecraft:fletcher/3/emerald_crossbow"
-  ]
+    "replace": false,
+    "values": [
+        "trades:fletcher/3/emerald_spectral_arrow"
+    ]
 }

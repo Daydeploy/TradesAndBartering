@@ -1,6 +1,7 @@
 {
-  "values": [
-    "minecraft:cleric/1/rotten_flesh_emerald",
-    "minecraft:cleric/1/emerald_redstone"
-  ]
+    "replace": false,
+    "values": [
+        "trades:cleric/1/bone_emerald",
+        "trades:cleric/1/string_emerald"
+    ]
 }

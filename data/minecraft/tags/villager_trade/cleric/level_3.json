@@ -1,6 +1,7 @@
 {
-  "values": [
-    "minecraft:cleric/3/rabbit_foot_emerald",
-    "minecraft:cleric/3/emerald_glowstone"
-  ]
+    "replace": false,
+    "values": [
+        "trades:cleric/3/disc_fragment_emerald",
+        "trades:cleric/3/echo_shard_emerald"
+    ]
 }

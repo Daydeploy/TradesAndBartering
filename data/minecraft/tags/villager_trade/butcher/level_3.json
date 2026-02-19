@@ -1,6 +1,6 @@
 {
-  "values": [
-    "minecraft:butcher/3/mutton_emerald",
-    "minecraft:butcher/3/beef_emerald"
-  ]
+    "replace": false,
+    "values": [
+        "trades:butcher/3/emerald_cooked_rabbit"
+    ]
 }

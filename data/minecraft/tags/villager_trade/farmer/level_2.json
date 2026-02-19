@@ -1,7 +1,8 @@
 {
-  "values": [
-    "minecraft:farmer/2/pumpkin_emerald",
-    "minecraft:farmer/2/emerald_pumpkin_pie",
-    "minecraft:farmer/2/emerald_apple"
-  ]
+    "replace": false,
+    "values": [
+        "trades:farmer/2/cactus_emerald",
+        "trades:farmer/2/cocao_beans_emerald",
+        "trades:farmer/2/sugar_cane_emerald"
+    ]
 }

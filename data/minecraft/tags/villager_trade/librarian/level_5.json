@@ -1,5 +1,6 @@
 {
-  "values": [
-    "minecraft:librarian/5/emerald_name_tag"
-  ]
+    "replace": false,
+    "values": [
+        "trades:librarian/5/emerald_dragon_breath"
+    ]
 }

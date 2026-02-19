@@ -1,6 +1,8 @@
 {
-  "values": [
-    "minecraft:mason/2/stone_emerald",
-    "minecraft:mason/2/emerald_chiseled_stone_bricks"
-  ]
+    "replace": false,
+    "values": [
+        "trades:mason/2/amethyst_block_emerald",
+        "trades:mason/2/calcite_emerald",
+        "trades:mason/2/tuff_emerald"
+    ]
 }

@@ -1,5 +1,6 @@
 {
-  "values": [
-    "minecraft:butcher/5/sweet_berries_emerald"
-  ]
+    "replace": false,
+    "values": [
+        "trades:butcher/5/emerald_cooked_beef"
+    ]
 }

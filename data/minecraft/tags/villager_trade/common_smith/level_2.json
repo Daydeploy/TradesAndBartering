@@ -1,6 +1,6 @@
 {
+  "replace": false,
   "values": [
-    "minecraft:smith/2/iron_ingot_emerald",
-    "minecraft:smith/2/emerald_bell"
+    "trades:smith/2/copper_ingot_emerald"
   ]
 }

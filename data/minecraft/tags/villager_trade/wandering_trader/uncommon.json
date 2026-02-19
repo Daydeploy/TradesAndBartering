@@ -1,19 +1,12 @@
 {
-  "values": [
-    "minecraft:wandering_trader/emerald_packed_ice",
-    "minecraft:wandering_trader/emerald_blue_ice",
-    "minecraft:wandering_trader/emerald_gunpowder",
-    "minecraft:wandering_trader/emerald_podzol",
-    "minecraft:wandering_trader/emerald_acacia_log",
-    "minecraft:wandering_trader/emerald_birch_log",
-    "minecraft:wandering_trader/emerald_dark_oak_log",
-    "minecraft:wandering_trader/emerald_jungle_log",
-    "minecraft:wandering_trader/emerald_oak_log",
-    "minecraft:wandering_trader/emerald_spruce_log",
-    "minecraft:wandering_trader/emerald_cherry_log",
-    "minecraft:wandering_trader/emerald_mangrove_log",
-    "minecraft:wandering_trader/emerald_pale_oak_log",
-    "minecraft:wandering_trader/emerald_enchanted_iron_pickaxe",
-    "minecraft:wandering_trader/emerald_long_invisibility_potion"
-  ]
+    "replace": false,
+    "values": [
+        "trades:wandering_trader/uncommon/emerald_creeper_head",
+        "trades:wandering_trader/uncommon/emerald_heart_of_the_sea",
+        "trades:wandering_trader/uncommon/emerald_ochre_froglight",
+        "trades:wandering_trader/uncommon/emerald_pearlescent_froglight",
+        "trades:wandering_trader/uncommon/emerald_skeleton_skull",
+        "trades:wandering_trader/uncommon/emerald_verdant_froglight",
+        "trades:wandering_trader/uncommon/emerald_zombie_head"
+    ]
 }

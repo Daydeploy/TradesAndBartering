@@ -1,6 +1,6 @@
 {
-  "values": [
-    "minecraft:farmer/3/emerald_cookie",
-    "minecraft:farmer/3/melon_emerald"
-  ]
+    "replace": false,
+    "values": [
+        "trades:farmer/3/moss_block_emerald"
+    ]
 }
