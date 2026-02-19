@@ -1,10 +1,10 @@
 {
-    "wants": {
-        "id": "minecraft:emerald",
-        "count": 32
-    },
-    "gives": {
-        "id": "minecraft:heart_of_the_sea"
-    },
-    "max_uses": 1
+  "wants": {
+    "id": "minecraft:emerald",
+    "count": 32
+  },
+  "gives": {
+    "id": "minecraft:heart_of_the_sea"
+  },
+  "max_uses": 1
 }

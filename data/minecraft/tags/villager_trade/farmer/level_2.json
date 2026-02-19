@@ -1,8 +1,8 @@
 {
-    "replace": false,
-    "values": [
-        "tradesandbartering:farmer/2/cactus_emerald",
-        "tradesandbartering:farmer/2/cocoa_beans_emerald",
-        "tradesandbartering:farmer/2/sugar_cane_emerald"
-    ]
+  "replace": false,
+  "values": [
+    "tradesandbartering:farmer/2/cactus_emerald",
+    "tradesandbartering:farmer/2/cocoa_beans_emerald",
+    "tradesandbartering:farmer/2/sugar_cane_emerald"
+  ]
 }

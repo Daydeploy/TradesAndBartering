@@ -1,10 +1,10 @@
 {
-    "wants": {
-        "id": "minecraft:emerald",
-        "count": 5
-    },
-    "gives": {
-        "id": "minecraft:tadpole_bucket"
-    },
-    "max_uses": 4
+  "wants": {
+    "id": "minecraft:emerald",
+    "count": 5
+  },
+  "gives": {
+    "id": "minecraft:tadpole_bucket"
+  },
+  "max_uses": 4
 }

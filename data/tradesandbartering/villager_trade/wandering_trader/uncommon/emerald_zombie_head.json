@@ -1,10 +1,10 @@
 {
-    "wants": {
-        "id": "minecraft:emerald",
-        "count": 12
-    },
-    "gives": {
-        "id": "minecraft:zombie_head"
-    },
-    "max_uses": 1
+  "wants": {
+    "id": "minecraft:emerald",
+    "count": 12
+  },
+  "gives": {
+    "id": "minecraft:zombie_head"
+  },
+  "max_uses": 1
 }

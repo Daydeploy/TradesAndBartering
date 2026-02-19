@@ -1,7 +1,7 @@
 {
-    "replace": false,
-    "values": [
-        "tradesandbartering:cleric/1/bone_emerald",
-        "tradesandbartering:cleric/1/string_emerald"
-    ]
+  "replace": false,
+  "values": [
+    "tradesandbartering:cleric/1/bone_emerald",
+    "tradesandbartering:cleric/1/string_emerald"
+  ]
 }

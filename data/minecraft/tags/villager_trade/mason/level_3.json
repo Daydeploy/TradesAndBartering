@@ -1,8 +1,8 @@
 {
-    "replace": false,
-    "values": [
-        "tradesandbartering:mason/3/deepslate_emerald",
-        "tradesandbartering:mason/3/dripstone_block_emerald",
-        "tradesandbartering:mason/3/emerald_prismarine"
-    ]
+  "replace": false,
+  "values": [
+    "tradesandbartering:mason/3/deepslate_emerald",
+    "tradesandbartering:mason/3/dripstone_block_emerald",
+    "tradesandbartering:mason/3/emerald_prismarine"
+  ]
 }

@@ -1,7 +1,7 @@
 {
-    "replace": false,
-    "values": [
-        "tradesandbartering:cleric/3/disc_fragment_emerald",
-        "tradesandbartering:cleric/3/echo_shard_emerald"
-    ]
+  "replace": false,
+  "values": [
+    "tradesandbartering:cleric/3/disc_fragment_emerald",
+    "tradesandbartering:cleric/3/echo_shard_emerald"
+  ]
 }

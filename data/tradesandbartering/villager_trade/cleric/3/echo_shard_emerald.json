@@ -1,11 +1,11 @@
 {
-    "wants": {
-        "id": "minecraft:echo_shard"
-    },
-    "gives": {
-        "id": "minecraft:emerald"
-    },
-    "max_uses": 3,
-    "reputation_discount": 0.05,
-    "xp": 20
+  "wants": {
+    "id": "minecraft:echo_shard"
+  },
+  "gives": {
+    "id": "minecraft:emerald"
+  },
+  "max_uses": 3,
+  "reputation_discount": 0.05,
+  "xp": 20
 }

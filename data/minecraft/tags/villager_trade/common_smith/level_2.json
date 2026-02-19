@@ -1,6 +1,6 @@
 {
-    "replace": false,
-    "values": [
-        "tradesandbartering:smith/2/copper_ingot_emerald"
-    ]
+  "replace": false,
+  "values": [
+    "tradesandbartering:smith/2/copper_ingot_emerald"
+  ]
 }

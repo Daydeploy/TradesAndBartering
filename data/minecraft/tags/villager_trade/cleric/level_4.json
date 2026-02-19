@@ -1,7 +1,7 @@
 {
-    "replace": false,
-    "values": [
-        "tradesandbartering:cleric/4/emerald_ghast_tear",
-        "tradesandbartering:cleric/4/emerald_slime_ball"
-    ]
+  "replace": false,
+  "values": [
+    "tradesandbartering:cleric/4/emerald_ghast_tear",
+    "tradesandbartering:cleric/4/emerald_slime_ball"
+  ]
 }

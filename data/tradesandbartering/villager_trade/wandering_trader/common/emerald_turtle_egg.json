@@ -1,10 +1,10 @@
 {
-    "wants": {
-        "id": "minecraft:emerald",
-        "count": 5
-    },
-    "gives": {
-        "id": "minecraft:turtle_egg"
-    },
-    "max_uses": 10
+  "wants": {
+    "id": "minecraft:emerald",
+    "count": 5
+  },
+  "gives": {
+    "id": "minecraft:turtle_egg"
+  },
+  "max_uses": 10
 }

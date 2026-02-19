@@ -1,10 +1,10 @@
 {
-    "wants": {
-        "id": "minecraft:emerald",
-        "count": 3
-    },
-    "gives": {
-        "id": "minecraft:pitcher_pod"
-    },
-    "max_uses": 3
+  "wants": {
+    "id": "minecraft:emerald",
+    "count": 3
+  },
+  "gives": {
+    "id": "minecraft:pitcher_pod"
+  },
+  "max_uses": 3
 }

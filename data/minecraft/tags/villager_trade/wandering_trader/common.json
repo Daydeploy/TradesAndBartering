@@ -1,15 +1,15 @@
 {
-    "replace": false,
-    "values": [
-        "tradesandbartering:wandering_trader/common/emerald_armadillo_scute",
-        "tradesandbartering:wandering_trader/common/emerald_axolotl_bucket",
-        "tradesandbartering:wandering_trader/common/emerald_experience_bottle",
-        "tradesandbartering:wandering_trader/common/emerald_golden_apple",
-        "tradesandbartering:wandering_trader/common/emerald_honey_bottle",
-        "tradesandbartering:wandering_trader/common/emerald_honeycomb",
-        "tradesandbartering:wandering_trader/common/emerald_pitcher_pod",
-        "tradesandbartering:wandering_trader/common/emerald_tadpole_bucket",
-        "tradesandbartering:wandering_trader/common/emerald_torchflower_seeds",
-        "tradesandbartering:wandering_trader/common/emerald_turtle_egg"
-    ]
+  "replace": false,
+  "values": [
+    "tradesandbartering:wandering_trader/common/emerald_armadillo_scute",
+    "tradesandbartering:wandering_trader/common/emerald_axolotl_bucket",
+    "tradesandbartering:wandering_trader/common/emerald_experience_bottle",
+    "tradesandbartering:wandering_trader/common/emerald_golden_apple",
+    "tradesandbartering:wandering_trader/common/emerald_honey_bottle",
+    "tradesandbartering:wandering_trader/common/emerald_honeycomb",
+    "tradesandbartering:wandering_trader/common/emerald_pitcher_pod",
+    "tradesandbartering:wandering_trader/common/emerald_tadpole_bucket",
+    "tradesandbartering:wandering_trader/common/emerald_torchflower_seeds",
+    "tradesandbartering:wandering_trader/common/emerald_turtle_egg"
+  ]
 }

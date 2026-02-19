@@ -1,12 +1,12 @@
 {
-    "wants": {
-        "id": "minecraft:emerald",
-        "count": 16
-    },
-    "gives": {
-        "id": "minecraft:iron_horse_armor"
-    },
-    "max_uses": 3,
-    "reputation_discount": 0.2,
-    "xp": 30
+  "wants": {
+    "id": "minecraft:emerald",
+    "count": 16
+  },
+  "gives": {
+    "id": "minecraft:iron_horse_armor"
+  },
+  "max_uses": 3,
+  "reputation_discount": 0.2,
+  "xp": 30
 }

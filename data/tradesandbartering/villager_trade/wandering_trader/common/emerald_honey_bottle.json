@@ -1,9 +1,9 @@
 {
-    "wants": {
-        "id": "minecraft:emerald"
-    },
-    "gives": {
-        "id": "minecraft:honey_bottle"
-    },
-    "max_uses": 6
+  "wants": {
+    "id": "minecraft:emerald"
+  },
+  "gives": {
+    "id": "minecraft:honey_bottle"
+  },
+  "max_uses": 6
 }

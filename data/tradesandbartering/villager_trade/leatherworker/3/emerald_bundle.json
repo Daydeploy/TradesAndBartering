@@ -1,12 +1,12 @@
 {
-    "wants": {
-        "id": "minecraft:emerald",
-        "count": 2
-    },
-    "gives": {
-        "id": "minecraft:bundle"
-    },
-    "max_uses": 3,
-    "reputation_discount": 0.05,
-    "xp": 10
+  "wants": {
+    "id": "minecraft:emerald",
+    "count": 2
+  },
+  "gives": {
+    "id": "minecraft:bundle"
+  },
+  "max_uses": 3,
+  "reputation_discount": 0.05,
+  "xp": 10
 }

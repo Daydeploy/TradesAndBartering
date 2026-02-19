@@ -1,10 +1,10 @@
 {
-    "replace": false,
-    "values": [
-        "tradesandbartering:armorer/1/emerald_golden_leggings",
-        "tradesandbartering:armorer/1/emerald_golden_boots",
-        "tradesandbartering:armorer/1/emerald_golden_helmet",
-        "tradesandbartering:armorer/1/emerald_golden_chestplate",
-        "tradesandbartering:armorer/1/redstone_emerald"
-    ]
+  "replace": false,
+  "values": [
+    "tradesandbartering:armorer/1/emerald_golden_leggings",
+    "tradesandbartering:armorer/1/emerald_golden_boots",
+    "tradesandbartering:armorer/1/emerald_golden_helmet",
+    "tradesandbartering:armorer/1/emerald_golden_chestplate",
+    "tradesandbartering:armorer/1/redstone_emerald"
+  ]
 }

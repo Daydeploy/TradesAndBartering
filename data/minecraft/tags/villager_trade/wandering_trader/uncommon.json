@@ -1,12 +1,12 @@
 {
-    "replace": false,
-    "values": [
-        "tradesandbartering:wandering_trader/uncommon/emerald_creeper_head",
-        "tradesandbartering:wandering_trader/uncommon/emerald_heart_of_the_sea",
-        "tradesandbartering:wandering_trader/uncommon/emerald_ochre_froglight",
-        "tradesandbartering:wandering_trader/uncommon/emerald_pearlescent_froglight",
-        "tradesandbartering:wandering_trader/uncommon/emerald_skeleton_skull",
-        "tradesandbartering:wandering_trader/uncommon/emerald_verdant_froglight",
-        "tradesandbartering:wandering_trader/uncommon/emerald_zombie_head"
-    ]
+  "replace": false,
+  "values": [
+    "tradesandbartering:wandering_trader/uncommon/emerald_creeper_head",
+    "tradesandbartering:wandering_trader/uncommon/emerald_heart_of_the_sea",
+    "tradesandbartering:wandering_trader/uncommon/emerald_ochre_froglight",
+    "tradesandbartering:wandering_trader/uncommon/emerald_pearlescent_froglight",
+    "tradesandbartering:wandering_trader/uncommon/emerald_skeleton_skull",
+    "tradesandbartering:wandering_trader/uncommon/emerald_verdant_froglight",
+    "tradesandbartering:wandering_trader/uncommon/emerald_zombie_head"
+  ]
 }

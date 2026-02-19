@@ -1,10 +1,10 @@
 {
-    "replace": false,
-    "values": [
-        "tradesandbartering:cartographer/5/emerald_creeper_banner_pattern",
-        "tradesandbartering:cartographer/5/emerald_flower_banner_pattern",
-        "tradesandbartering:cartographer/5/emerald_mojang_banner_pattern",
-        "tradesandbartering:cartographer/5/emerald_piglin_banner_pattern",
-        "tradesandbartering:cartographer/5/emerald_skull_banner_pattern"
-    ]
+  "replace": false,
+  "values": [
+    "tradesandbartering:cartographer/5/emerald_creeper_banner_pattern",
+    "tradesandbartering:cartographer/5/emerald_flower_banner_pattern",
+    "tradesandbartering:cartographer/5/emerald_mojang_banner_pattern",
+    "tradesandbartering:cartographer/5/emerald_piglin_banner_pattern",
+    "tradesandbartering:cartographer/5/emerald_skull_banner_pattern"
+  ]
 }

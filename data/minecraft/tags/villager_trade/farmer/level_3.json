@@ -1,6 +1,6 @@
 {
-    "replace": false,
-    "values": [
-        "tradesandbartering:farmer/3/moss_block_emerald"
-    ]
+  "replace": false,
+  "values": [
+    "tradesandbartering:farmer/3/moss_block_emerald"
+  ]
 }
