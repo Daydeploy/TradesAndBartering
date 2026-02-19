@@ -1,0 +1,40 @@
+name: Optimize datapack
+on:
+  workflow_dispatch:
+  push:
+    tags:
+      - "**"
+
+permissions:
+  contents: write
+
+jobs:
+  packsquash:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Run packsquash
+        uses: ComunidadAylas/PackSquash-action@v4
+        with:
+          packsquash_version: latest
+          options: |
+            pack_directory = '.'
+            output_file_path = '/tmp/TradesAndBartering.zip'
+
+      - name: Publish to GitHub and Modrinth
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          modrinth-id: ${{secrets.MODRINTH_ID}}
+          modrinth-token: ${{secrets.MODRINTH_TOKEN}}
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          files: /tmp/TradesAndBartering.zip
+          loaders: datapack
+          game-versions: |
+            >=26.1-snapshot-1
+          version-type: release
+          changelog: ${{github.event.head_commit.message}}
