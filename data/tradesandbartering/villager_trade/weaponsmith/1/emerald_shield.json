@@ -1,0 +1,10 @@
+{
+    "wants": {
+        "id": "minecraft:emerald"
+    },
+    "gives": {
+        "id": "minecraft:shield"
+    },
+    "max_uses": 12,
+    "reputation_discount": 0.2
+}

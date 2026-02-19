@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "trades:armorer/1/emerald_golden_leggings",
+    "trades:armorer/1/emerald_golden_boots",
+    "trades:armorer/1/emerald_golden_helmet",
+    "trades:armorer/1/emerald_golden_chestplate"
+  ]
+}

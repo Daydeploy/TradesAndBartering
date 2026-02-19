@@ -1,0 +1,12 @@
+{
+    "wants": {
+        "id": "minecraft:emerald",
+        "count": 20
+    },
+    "gives": {
+        "id": "minecraft:dragon_breath"
+    },
+    "max_uses": 12,
+    "reputation_discount": 0.05,
+    "xp": 30
+}

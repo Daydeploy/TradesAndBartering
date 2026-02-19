@@ -1,0 +1,9 @@
+{
+    "wants": {
+        "id": "minecraft:emerald"
+    },
+    "gives": {
+        "id": "minecraft:armadillo_scute"
+    },
+    "max_uses": 12
+}

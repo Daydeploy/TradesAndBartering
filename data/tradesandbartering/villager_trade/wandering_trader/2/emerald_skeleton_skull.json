@@ -1,0 +1,10 @@
+{
+    "wants": {
+        "id": "minecraft:emerald",
+        "count": 12
+    },
+    "gives": {
+        "id": "minecraft:skeleton_skull"
+    },
+    "max_uses": 1
+}

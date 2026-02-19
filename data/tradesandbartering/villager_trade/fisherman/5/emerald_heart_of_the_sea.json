@@ -1,0 +1,12 @@
+{
+    "wants": {
+        "id": "minecraft:emerald",
+        "count": 48
+    },
+    "gives": {
+        "id": "minecraft:heart_of_the_sea"
+    },
+    "max_uses": 1,
+    "reputation_discount": 0.2,
+    "xp": 30
+}

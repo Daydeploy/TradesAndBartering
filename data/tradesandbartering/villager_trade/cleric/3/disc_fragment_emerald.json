@@ -1,0 +1,11 @@
+{
+    "wants": {
+        "id": "minecraft:disc_fragment_5"
+    },
+    "gives": {
+        "id": "minecraft:emerald"
+    },
+    "max_uses": 3,
+    "reputation_discount": 0.05,
+    "xp": 20
+}

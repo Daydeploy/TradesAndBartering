@@ -1,0 +1,10 @@
+{
+    "wants": {
+        "id": "minecraft:emerald",
+        "count": 5
+    },
+    "gives": {
+        "id": "minecraft:pearlescent_froglight"
+    },
+    "max_uses": 3
+}

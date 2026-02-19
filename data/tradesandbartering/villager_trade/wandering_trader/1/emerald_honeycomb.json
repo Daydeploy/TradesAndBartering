@@ -1,0 +1,10 @@
+{
+    "wants": {
+        "id": "minecraft:emerald"
+    },
+    "gives": {
+        "id": "minecraft:honeycomb",
+        "count": 3
+    },
+    "max_uses": 12
+}
