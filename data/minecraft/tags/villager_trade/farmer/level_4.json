@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "trades:farmer/4/brown_mushroom_emerald",
-        "trades:farmer/4/red_mushroom_emerald"
+        "tradesandbartering:farmer/4/brown_mushroom_emerald",
+        "tradesandbartering:farmer/4/red_mushroom_emerald"
     ]
 }

@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "trades:cleric/1/bone_emerald",
-        "trades:cleric/1/string_emerald"
+        "tradesandbartering:cleric/1/bone_emerald",
+        "tradesandbartering:cleric/1/string_emerald"
     ]
 }

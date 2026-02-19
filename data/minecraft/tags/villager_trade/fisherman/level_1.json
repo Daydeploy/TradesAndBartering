@@ -1,6 +1,6 @@
 {
     "replace": false,
     "values": [
-        "trades:fisherman/1/emerald_water_bucket"
+        "tradesandbartering:fisherman/1/emerald_water_bucket"
     ]
 }

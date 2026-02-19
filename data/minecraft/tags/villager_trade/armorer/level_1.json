@@ -1,10 +1,10 @@
 {
     "replace": false,
     "values": [
-        "trades:armorer/1/emerald_golden_leggings",
-        "trades:armorer/1/emerald_golden_boots",
-        "trades:armorer/1/emerald_golden_helmet",
-        "trades:armorer/1/emerald_golden_chestplate",
-        "trades:armorer/1/redstone_emerald"
+        "tradesandbartering:armorer/1/emerald_golden_leggings",
+        "tradesandbartering:armorer/1/emerald_golden_boots",
+        "tradesandbartering:armorer/1/emerald_golden_helmet",
+        "tradesandbartering:armorer/1/emerald_golden_chestplate",
+        "tradesandbartering:armorer/1/redstone_emerald"
     ]
 }

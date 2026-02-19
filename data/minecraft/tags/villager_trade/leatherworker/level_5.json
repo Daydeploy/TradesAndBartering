@@ -1,8 +1,8 @@
 {
     "replace": false,
     "values": [
-        "trades:leatherworker/5/emerald_diamond_horse_armor",
-        "trades:leatherworker/5/emerald_golden_horse_armor",
-        "trades:leatherworker/5/emerald_iron_horse_armor"
+        "tradesandbartering:leatherworker/5/emerald_diamond_horse_armor",
+        "tradesandbartering:leatherworker/5/emerald_golden_horse_armor",
+        "tradesandbartering:leatherworker/5/emerald_iron_horse_armor"
     ]
 }

@@ -1,8 +1,8 @@
 {
     "replace": false,
     "values": [
-        "trades:mason/1/emerald_decorated_pot",
-        "trades:mason/1/red_sand_emerald",
-        "trades:mason/1/sand_emerald"
+        "tradesandbartering:mason/1/emerald_decorated_pot",
+        "tradesandbartering:mason/1/red_sand_emerald",
+        "tradesandbartering:mason/1/sand_emerald"
     ]
 }

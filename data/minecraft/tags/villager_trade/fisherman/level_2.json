@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "trades:fisherman/2/sea_pickle_emerald",
-        "trades:fisherman/2/seagrass_emerald"
+        "tradesandbartering:fisherman/2/sea_pickle_emerald",
+        "tradesandbartering:fisherman/2/seagrass_emerald"
     ]
 }

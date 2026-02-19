@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "trades:fisherman/5/emerald_axolotl_bucket",
-        "trades:fisherman/5/emerald_heart_of_the_sea"
+        "tradesandbartering:fisherman/5/emerald_axolotl_bucket",
+        "tradesandbartering:fisherman/5/emerald_heart_of_the_sea"
     ]
 }

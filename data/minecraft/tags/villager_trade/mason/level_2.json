@@ -1,8 +1,8 @@
 {
     "replace": false,
     "values": [
-        "trades:mason/2/amethyst_block_emerald",
-        "trades:mason/2/calcite_emerald",
-        "trades:mason/2/tuff_emerald"
+        "tradesandbartering:mason/2/amethyst_block_emerald",
+        "tradesandbartering:mason/2/calcite_emerald",
+        "tradesandbartering:mason/2/tuff_emerald"
     ]
 }

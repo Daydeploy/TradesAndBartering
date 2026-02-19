@@ -1,9 +1,9 @@
 {
     "replace": false,
     "values": [
-        "trades:toolsmith/2/emerald_golden_axe",
-        "trades:toolsmith/2/emerald_golden_hoe",
-        "trades:toolsmith/2/emerald_golden_pickaxe",
-        "trades:toolsmith/2/emerald_golden_shovel"
+        "tradesandbartering:toolsmith/2/emerald_golden_axe",
+        "tradesandbartering:toolsmith/2/emerald_golden_hoe",
+        "tradesandbartering:toolsmith/2/emerald_golden_pickaxe",
+        "tradesandbartering:toolsmith/2/emerald_golden_shovel"
     ]
 }
