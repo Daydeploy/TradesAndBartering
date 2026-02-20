@@ -35,7 +35,7 @@ jobs:
           files: /tmp/TradesAndBartering.zip
           loaders: datapack
           game-versions: |
-            >=26.1-snapshot-1
+            >=1.21.11
           version: ${{github.ref_name}}
           version-type: release
           changelog: ${{github.event.head_commit.message}}
