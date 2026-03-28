@@ -1,6 +1,5 @@
 {
     "pack": {
-        "pack_format": 101,
         "description": "More vanilla inspired trades for Piglins, Villagers and Wandering Trader.",
         "min_format": [
             101.1,
